@@ -10,21 +10,21 @@
 
 | Chapter       | 발표 자료 
 :--------------|:-----:
-| 01. 성능과 최적화 |
-| 02. JVM 이야기 |
-| 03. 하드웨어와 운영체제 |
-| 04. 성능 테스트 패턴 및 안티패턴 |
-| 05. 마이크로벤치마킹과 통계 |
-| 06. 가비지 수집 기초 |
-| 07. 가비지 수집 고급 |
-| 08. GC 로깅, 모니터링, 튜닝, 툴 |
-| 09. JVM의 코드 실행 |
-| 10. JIT 컴파일의 세계로 |
-| 11. 자바 언어의 성능 향상 기법 |
-| 12. 동시 성능 기법 |
-| 13. 프로파일링 |
-| 14. 고성능 로깅 및 메시징 |
-| 15. 자바 9와 미래 |
+| 01. 성능과 최적화 | [이동](https://github.com/Learning-Is-Vital-In-Development/24-optimizing-java-1/tree/main/ch01)
+| 02. JVM 이야기 | [이동](https://github.com/Learning-Is-Vital-In-Development/24-optimizing-java-1/tree/main/ch02)
+| 03. 하드웨어와 운영체제 | [이동](https://github.com/Learning-Is-Vital-In-Development/24-optimizing-java-1/tree/main/ch03)
+| 04. 성능 테스트 패턴 및 안티패턴 | [이동](https://github.com/Learning-Is-Vital-In-Development/24-optimizing-java-1/tree/main/ch04)
+| 05. 마이크로벤치마킹과 통계 | [이동](https://github.com/Learning-Is-Vital-In-Development/24-optimizing-java-1/tree/main/ch05)
+| 06. 가비지 수집 기초 | [이동](https://github.com/Learning-Is-Vital-In-Development/24-optimizing-java-1/tree/main/ch06)
+| 07. 가비지 수집 고급 | [이동](https://github.com/Learning-Is-Vital-In-Development/24-optimizing-java-1/tree/main/ch07)
+| 08. GC 로깅, 모니터링, 튜닝, 툴 | [이동](https://github.com/Learning-Is-Vital-In-Development/24-optimizing-java-1/tree/main/ch08)
+| 09. JVM의 코드 실행 | [이동](https://github.com/Learning-Is-Vital-In-Development/24-optimizing-java-1/tree/main/ch09)
+| 10. JIT 컴파일의 세계로 | [이동](https://github.com/Learning-Is-Vital-In-Development/24-optimizing-java-1/tree/main/ch10)
+| 11. 자바 언어의 성능 향상 기법 | [이동](https://github.com/Learning-Is-Vital-In-Development/24-optimizing-java-1/tree/main/ch11)
+| 12. 동시 성능 기법 | [이동](https://github.com/Learning-Is-Vital-In-Development/24-optimizing-java-1/tree/main/ch12)
+| 13. 프로파일링 | [이동](https://github.com/Learning-Is-Vital-In-Development/24-optimizing-java-1/tree/main/ch13)
+| 14. 고성능 로깅 및 메시징 | [이동](https://github.com/Learning-Is-Vital-In-Development/24-optimizing-java-1/tree/main/ch14)
+| 15. 자바 9와 미래 | 
 
 ## 진행방식
 
